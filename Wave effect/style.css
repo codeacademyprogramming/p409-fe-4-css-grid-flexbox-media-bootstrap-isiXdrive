@@ -1,0 +1,159 @@
+/* TASK 1 */
+
+/* body{
+    margin: 0;
+    top: 0;
+    left: 0;
+    background-color: black;
+    text-align: center;
+}
+
+.btn{
+    font-size: medium;
+    font-weight: 700;
+    margin-top: 40px;
+    width: 200px;
+    height: 60px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color:rgba(201, 61, 61, 0.74) ;
+    box-shadow: 0px 0px 50px 21px rgba(201, 61, 61, 0.74);
+    transition: 0.5s;
+}
+
+
+.first{
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    z-index: 1;
+}
+p{
+    text-align: center;
+    padding-top: 25px;
+    font-size: medium;
+    font-weight: 700;
+}
+
+.second{
+    border-radius: 50%;
+    background-color: pink;
+    position: relative;
+}
+
+.first:hover + .second{
+    width: 110px;
+    height: 110px;
+    transition: 0.5s;
+} */
+
+
+/* Task 2 */
+
+/* body {
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: justify;
+}
+
+.fluid-flex {
+    width: 100%;
+    height: 150px;
+    background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+}
+
+.d-flex-2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.d-flex-2 div {
+    padding: 5px;
+}
+
+.d-1 {
+    background-position: center;
+    width: 49%;
+    height: 150px;
+    background: linear-gradient(to right, #334d50, #cbcaa5);
+}
+
+.d-2 {
+    width: 49%;
+    height: 150px;
+    background: linear-gradient(to right, #00416a, #799f0c, #ffe000);
+}
+
+.d-flex-3 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.d-flex-3 div {
+    padding: 5px;
+}
+
+.d-3 {
+    width: 32%;
+    height: 150px;
+    background: linear-gradient(to right, #ee9ca7, #ffdde1);
+}
+
+.d-4 {
+    width: 32%;
+    height: 150px;
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+}
+
+.d-5 {
+    width: 32%;
+    height: 150px;
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+}
+
+.d-flex-4 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+
+.d-flex-4 div {
+    padding: 5px;
+}
+
+.d-6 {
+    width: 24%;
+    height: 150px;
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+.d-7 {
+    width: 24%;
+    height: 150px;
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
+
+.d-8 {
+    width: 24%;
+    height: 150px;
+    background: linear-gradient(to right, #1f4037, #99f2c8);
+}
+
+.d-9 {
+    width: 24%;
+    height: 150px;
+    background: linear-gradient(to right, #f12711, #f5af19);
+} */
